@@ -8,7 +8,7 @@ Categoria que organiza dados, como tempo, local, produto.
 Dados numéricos que representam métricas de negócios, como vendas.
 
 ## Para que servem as hierarquias em BI?
-Organizar dados em diferent es níveis de detalhe, como ano > mês > dia.
+Organizar dados em diferentes níveis de detalhe, como ano > mês > dia.
 
 ## Exemplo de hierarquia comum.
 Tempo: ano, trimestre, mês, dia.
@@ -71,56 +71,34 @@ Planejamento e identificação de requisitos.
 Uso de índices e otimização de consultas.
 
 ## Exemplo de implementação prática.
-Criação de um cubo OLAP para análise de vendas.
+Criação de um cubo OLAP para análise de vendas.s
 
-## Benefícios do uso de cubos OLAP.
-- Agilidade na análise de dados multidimensionais.
-- Facilidade na exploração de diferentes perspectivas dos dados.
-- Melhor compreensão dos padrões e tendências dos negócios.
-- Suporte à tomada de decisões estratégicas.
-- Redução do tempo de resposta em consultas complexas.
+## O que é Data Governance?
+Conjunto de práticas e políticas para garantir a qualidade, integridade e segurança dos dados.
 
-## Desafios na implementação de um Data Warehouse.
-- Garantir a qualidade e integridade dos dados.
-- Gerenciar a escalabilidade e o desempenho do sistema.
-- Lidar com a complexidade da modelagem multidimensional.
-- Garantir a segurança e privacidade dos dados.
-- Manter a consistência dos dados ao longo do tempo.
+## O que é Data Quality Management?
+Processo de garantir que os dados estejam corretos, completos e confiáveis.
 
-## Principais ferramentas de BI.
-- Tableau
-- Power BI
-- QlikView
-- MicroStrategy
-- Pentaho
+## O que é Data Integration?
+Processo de combinar dados de diferentes fontes para criar uma visão unificada.
 
-## Tendências em BI.
-- Inteligência Artificial e Machine Learning aplicados à análise de dados.
-- Automação de processos de ETL e preparação de dados.
-- Análise em tempo real e streaming de dados.
-- Uso de Big Data e tecnologias de armazenamento distribuído.
-- Visualização de dados interativa e storytelling.
+## O que é Metadata Management?
+Gerenciamento das informações sobre os dados, como definições, fontes e histórico de alterações.
 
-## Papel do profissional de BI.
-- Coletar e analisar requisitos de negócios.
-- Projetar e desenvolver modelos de dados multidimensionais.
-- Criar e otimizar consultas para extração de informações.
-- Desenvolver painéis e relatórios interativos.
-- Interpretar e comunicar insights para tomada de decisões.
+## O que é Self-Service BI?
+Ferramentas e processos que permitem aos usuários de negócios criar suas próprias análises e relatórios.
 
-## Melhores práticas em BI.
-- Envolver os usuários finais desde o início do projeto.
-- Garantir a qualidade e consistência dos dados.
-- Manter a documentação atualizada.
-- Realizar testes e validações regulares.
-- Promover a colaboração e compartilhamento de conhecimento.
+## O que é Advanced Analytics?
+Análise de dados que vai além do BI tradicional, incluindo técnicas como mineração de dados, análise preditiva e prescritiva.
 
-## Recursos de aprendizado em BI.
-- Cursos online e tutoriais.
-- Livros e publicações especializadas.
-- Comunidades e fóruns de discussão.
-- Eventos e conferências da área.
-- Projetos práticos e hands-on.
+## Melhores práticas em Data Visualization.
+Práticas recomendadas para criar visualizações de dados eficazes.
 
-## Conclusão.
-O Business Intelligence é uma área essencial para as empresas que desejam tomar decisões baseadas em dados. Através da modelagem multidimensional, análise de dados e visualização interativa, é possível obter insights valiosos e impulsionar o sucesso dos negócios. Com as ferramentas e práticas adequadas, é possível transformar dados em informações estratégicas e tomar decisões mais assertivas.
+## O que é Cloud BI?
+Implementação de soluções de BI em ambientes de nuvem.
+
+## O que é Real-Time BI?
+Análise de dados em tempo real para suporte à decisão instantânea.
+
+## O que é Data Security and Privacy?
+Práticas e políticas para proteger dados sensíveis e garantir a privacidade dos usuários.
